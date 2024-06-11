@@ -1,9 +1,8 @@
 {
   "Noticias":[
-    {"id":0, "nome": "Gumball Tristopher Watterson","idade": "12 anos", "sexo": "Masculino", "especie": "Gato", "ocupacao": "Estudante", "url": "https://i.pinimg.com/564x/6c/e0/8b/6ce08b2cdf7d0dd56d29188a8e60ba9e.jpg"},
-    {"id":1, "nome": "Darwin Raglan Caspian Ahab Poseidon Nicodemus Watterson III", "idade": "10 anos", "sexo": "Masculino", "especie": "Híbrido Peixe-Dourado/Rêmora", "ocupacao": "Estudante", "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgumball.fandom.com%2Fpt-br%2Fwiki%2FDarwin_Watterson&psig=AOvVaw34l2-R5V908bjiDpVd436q&ust=1716051620419000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjd-MWUlYYDFQAAAAAdAAAAABAE"},
-    {"id":2, "nome": "Anais Watterson", "idade": "4 anos", "sexo": "Feminino", "especie": "Coelho", "ocupacao": "Estudante"},
-    {"id":3, "nome": "Doutora Nicole Senicourt Watterson", "idade": "40 anos", "sexo": "Feminino", "especie": "Gato", "ocupacao": "Funcionária da fábrica do arco-íris"},
-    {"id":4, "nome": "Ricardo/Richard Buckley Watterson", "idade": "40 anos", "sexo": "Masculino", "especie": "Coelho", "ocupacao": "Desempregado"}
+    {"id":0, "titulo": "Câmara aprova projeto que acaba com isenção para compras internacionais de até US$ 50","texto": "Texto aprovado prevê taxação de 20% sobre importações; atualmente, essas compras só pagam ICMS. Projeto ainda precisa ser aprovado no Senado."},
+    {"id":1, "titulo": "Após mês de chuva recorde e volumes superiores a mil milímetros, RS tem previsão de dias secos em sequência", "texto": "Temporais e cheias deixaram 169 mortos no estado. Dias de sol e frio chegam após passagem de ciclone extratropical, que provocou ventania em diversas regiões."},
+    {"id":2, "titulo": "Éder Militão x Karoline Lima: como deve ser a pensão alimentícia de um pai milionário?", "texto": "Advogadas ouvidas pelo g1 explicam que os pagamentos feitos pelo pai devem proporcionar aos filhos o mesmo padrão de vida que ele tem, independentemente do salário que ele receba."},
+    {"id":3, "titulo": "Doutora Nicole Senicourt Watterson", "texto": "40 anos" }
   ]
 }
