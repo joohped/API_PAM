@@ -1,1 +1,9 @@
-
+{
+  "Noticias":[
+    {"id":0, "nome": "Gumball Tristopher Watterson","idade": "12 anos", "sexo": "Masculino", "especie": "Gato", "ocupacao": "Estudante", "url": "https://i.pinimg.com/564x/6c/e0/8b/6ce08b2cdf7d0dd56d29188a8e60ba9e.jpg"},
+    {"id":1, "nome": "Darwin Raglan Caspian Ahab Poseidon Nicodemus Watterson III", "idade": "10 anos", "sexo": "Masculino", "especie": "Híbrido Peixe-Dourado/Rêmora", "ocupacao": "Estudante", "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgumball.fandom.com%2Fpt-br%2Fwiki%2FDarwin_Watterson&psig=AOvVaw34l2-R5V908bjiDpVd436q&ust=1716051620419000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjd-MWUlYYDFQAAAAAdAAAAABAE"},
+    {"id":2, "nome": "Anais Watterson", "idade": "4 anos", "sexo": "Feminino", "especie": "Coelho", "ocupacao": "Estudante"},
+    {"id":3, "nome": "Doutora Nicole Senicourt Watterson", "idade": "40 anos", "sexo": "Feminino", "especie": "Gato", "ocupacao": "Funcionária da fábrica do arco-íris"},
+    {"id":4, "nome": "Ricardo/Richard Buckley Watterson", "idade": "40 anos", "sexo": "Masculino", "especie": "Coelho", "ocupacao": "Desempregado"}
+  ]
+}
