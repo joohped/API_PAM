@@ -6,6 +6,13 @@
     {"id":3, "titulo": "Brasil reage a Israel e relação 'desce mais um degrau'", "texto": "Oficialização da retirada do embaixador brasileiro em Israel do cargo é reação a constrangimento que Israel causou ao Brasil e ao diplomata Frederico Meyer." },
     {"id":4, "titulo": "União Europeia pede para que Venezuela reconsidere 'desconvite' para observadores nas eleições", "texto": "Chefe do Conselho Nacional Eleitoral afirmou que observadores europeus 'não merecem' ir ao país. Em nota, União Europeia lamentou decisão venezuelana." },
     {"id":5, "titulo": "Cortina instalada para bloquear visão do Monte Fuji e ‘espantar’ turistas, é perfurada em dez locais diferentes", "texto": "A polêmica cortina que foi instalada para bloquear a vista do Monte Fuji, popular entre os turistas, foi perfurada em dez locais diferentes em Fujikawaguchiko, no Japão, disse um funcionário municipal." },
-    {"id":6, "titulo": "Papa Francisco pede desculpas por frases consideradas homofóbicas, anuncia Vaticano", "texto": "O pontífice teria usado um termo depreciativo durante uma reunião a portas fechadas com 250 bispos italianos na semana passada, ao expressar a sua oposição à entrada de homens abertamente homossexuais no seminário" }
+    {"id":6, "titulo": "Papa Francisco pede desculpas por frases consideradas homofóbicas, anuncia Vaticano", "texto": "O pontífice teria usado um termo depreciativo durante uma reunião a portas fechadas com 250 bispos italianos na semana passada, ao expressar a sua oposição à entrada de homens abertamente homossexuais no seminário" },
+    {"id":7, "titulo": "Mudanças climáticas dobram risco de enchentes no RS.", "texto": "Um estudo internacional indica que as mudanças climáticas dobraram o risco de enchentes no Rio Grande do Sul, confirmando o papel da transformação no planeta na incidência do evento extremo registrado no Brasil."},
+    {"id":8, "titulo": "Índia registra 56 mortes após onda de calor", "texto": "A Índia registou quase 25 mil casos de suspeita de insolação e 56 pessoas morreram após vários dias de onda de calor em todo o país, entre março e maio, informou a mídia local, citando dados do governo." },
+    {"id":9, "titulo": "Temperatura dos oceanos em 2023 foi a mais quente da história segundo a Unesco", "texto": "A taxa de aquecimento dos mares duplicou nos últimos 20 anos; toda costa oceânica brasileira está cerca de 2°C acima da média histórica" },
+    {"id":10, "titulo": "Temperaturas passam de 52ºC durante onda de calor no Paquistão", "texto":"Equipe de cientistas internacionais alerta para agravamento da situação provocada pela mudança climática causada pelo homem "}
+
+" },
   ]
 }
+
