@@ -18,7 +18,11 @@
     {"id":15, "titulo": "Uso de inteligência artificial em notícias gera preocupações em todo o mundo, aponta pesquisa", "texto":"Público afirma não se sentir confortável com noticiário gerado principalmente por IA, segundo relatório do Instituto Reuters"},
     {"id":16, "titulo": "Assistentes sociais defendem novo piso salarial e financiamento de suas atividades", "texto":"Sistema Único de Assistência Social tem 451 mil trabalhadores; eles reclamam da precarização do trabalho nos últimos anos"},
     {"id":17, "titulo": "Serviço de nivelamento de solo é realizado em ruas do Canastreiro", "texto":"A Prefeitura Municipal de São José do Norte, através da Secretaria Municipal de Obras e Urbanismo (SMOU) vem prestando serviços por ruas e vias do município."},
-    {"id":18, "titulo": "Quais são os crimes cometidos por quem divulga o 'jogo do tigrinho'", "texto":"Famoso nas redes sociais, o Fortune Tiger é considerado um jogo de azar pela Lei de Contravenções Penais porque ganhar ou perder depende exclusivamente da sorte."}
+    {"id":18, "titulo": "Quais são os crimes cometidos por quem divulga o 'jogo do tigrinho'", "texto":"Famoso nas redes sociais, o Fortune Tiger é considerado um jogo de azar pela Lei de Contravenções Penais porque ganhar ou perder depende exclusivamente da sorte."},
+    {"id":19, "titulo": "Europa enfrenta aumento preocupante de casos de dengue, alertam autoridades", "texto":"Autoridades de saúde alertam para o crescimento de registros da doença transmitida por mosquitos no continente europeu"},
+    {"id":20, "titulo": "Regiões Norte e Nordeste devem registrar chuvas volumosas nesta semana", "texto":"Segundo o Instituto Nacional de Meteorologia (Inmet), essas áreas podem receber precipitações superiores a 60 mm devido à combinação de calor e umidade elevada"},
+    {"id":21, "titulo": "Lagoa dos Patos tem alto risco de inundação, alerta Cemaden", "texto":"A região da Lagoa dos Patos, no Rio Grande do Sul, terá grandes riscos de inundação, segundo um alerta do Centro Nacional de Monitoramento e Alertas de Desastres Naturais, o Cemaden"},
+    {"id":22, "titulo": "Cuiabá registra maior temperatura em junho em quase 30 anos", "texto":"Nos dias 15 e 16 de junho de 2024, o Instituto Nacional de Meteorologia registrou 37,2°C de temperatura máxima. No histórico de dados do Inmet, esta é a maior temperatura registrada em um dia de junho em 27 anos, desde 1997."}
   ]
   
 }
