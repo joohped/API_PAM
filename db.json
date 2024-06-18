@@ -22,7 +22,11 @@
     {"id":19, "titulo": "Europa enfrenta aumento preocupante de casos de dengue, alertam autoridades", "texto":"Autoridades de saúde alertam para o crescimento de registros da doença transmitida por mosquitos no continente europeu"},
     {"id":20, "titulo": "Regiões Norte e Nordeste devem registrar chuvas volumosas nesta semana", "texto":"Segundo o Instituto Nacional de Meteorologia (Inmet), essas áreas podem receber precipitações superiores a 60 mm devido à combinação de calor e umidade elevada"},
     {"id":21, "titulo": "Lagoa dos Patos tem alto risco de inundação, alerta Cemaden", "texto":"A região da Lagoa dos Patos, no Rio Grande do Sul, terá grandes riscos de inundação, segundo um alerta do Centro Nacional de Monitoramento e Alertas de Desastres Naturais, o Cemaden"},
-    {"id":22, "titulo": "Cuiabá registra maior temperatura em junho em quase 30 anos", "texto":"Nos dias 15 e 16 de junho de 2024, o Instituto Nacional de Meteorologia registrou 37,2°C de temperatura máxima. No histórico de dados do Inmet, esta é a maior temperatura registrada em um dia de junho em 27 anos, desde 1997."}
+    {"id":22, "titulo": "Cuiabá registra maior temperatura em junho em quase 30 anos", "texto":"Nos dias 15 e 16 de junho de 2024, o Instituto Nacional de Meteorologia registrou 37,2°C de temperatura máxima. No histórico de dados do Inmet, esta é a maior temperatura registrada em um dia de junho em 27 anos, desde 1997."},
+    {"id":23, "titulo": "Em meio a tensões globais, gastos com armas nucleares sobem", "texto":"Os nove países com armas nucleares gastaram 91,4 bilhões de dólares em seus arsenais em 2023. Número de armas prontas para uso aumenta."},
+    {"id":24, "titulo": "Microsoft se une a plataforma para criar serviço de notícias com ferramentas de IA", "texto":"Semafor produz resumos a partir de conteúdos de publicações, como NYT e FT. Empresa de Bill Gates diz que quer buscar maneiras de apoiar os jornalistas, não substituí-los"},
+    {"id":25, "titulo": "O aquecimento global está mais rápido do que o esperado?", "texto":"Os oceanos ficaram mais quentes, o gelo da Antártica nunca esteve tão reduzido e eventos climáticos extremos atingem todos os continentes, sendo o mais recente a onda de calor no Brasil, sobretudo nas regiões Sudeste e Centro-Oeste."},
+    {"id":26, "titulo": "G7 e aborto legal: a polêmica que dividiu líderes globais", "texto":"A Cúpula do G7, realizada na Itália, chega ao seu segundo e último dia nesta sexta-feira (14) envolta em uma polêmica sobre a inclusão..."}
   ]
   
 }
